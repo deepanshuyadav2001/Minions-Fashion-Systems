@@ -2,7 +2,7 @@
 # Flipkart Grid Software Development Challenge 4.0
 Submitted by "Team ERROR_MAKERS" (<a href="https://github.com/deepanshuyadav2001">Deepanshu Yadav,</a><a href="https://github.com"> Balraj Gehlot,</a><a href="https://github.com"> Anuj</a>)
 ## Fashion Intelligence Systems :tshirt:
-Looking for a solution to predict Fashion Trends and know the Current Trends too? Presenting Minions Fashion Systems :unicorn:, a one-stop-shop solution for all the designers out there. You can see numerous current trends and even predict the upcoming trends. No need to browse through multiple fashion sites, e-commerce websites, inspiration boards to know what people are liking. Let Unicorn Fashion Systems :unicorn: do it for you!
+Looking for a solution to predict Fashion Trends and know the Current Trends too? Presenting Minions Fashion Systems 🟨:, a one-stop-shop solution for all the designers out there. You can see numerous current trends and even predict the upcoming trends. No need to browse through multiple fashion sites, e-commerce websites, inspiration boards to know what people are liking. Let Minions Fashion Systems 🟨: do it for you!
 
 ## Use Cases
 Show Fashion Retailers current trends and failures and provide them with an analysis of what is working in the market product wise and reduce manual effort. Help fashion retailers know about possible future trends, and give them more insight into how they are derived product wise.
@@ -19,7 +19,7 @@ The dataset consists of data scraped from various e-commerce websites. The detai
 
 ### Judging the Sentiment Attached with Each Product :smile:/:neutral_face:/ :disappointed:
 Here, we make use of the rating, number of people who rated, reviews and number of people who reviewed to understand whether the product is doing well in the market. The Vader Polarity Score <MIT link> is a measure of how postive or negative a certain piece of text is. The relation between these aspects would be:<br>
-  <p align="center"><img src="https://github.com/deepanshuyadav2001/Minions-Fashion-Systems/blob/master/images/3.PNG" width=37.5%></p><br>
+  <p align="center"><img src="https://github.com/deepanshuyadav2001/Minions-Fashion-Systems/blob/master/images/3.png" width=37.5%></p><br>
 We decided upon this equation because we feel that the positivity score is directly proportional to the above features. We pick the top 5 and bottom 5 products based on their final score. These products are displayed in the current trends section.
   
 ### The Leaderboard :bar_chart:
